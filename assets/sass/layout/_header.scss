@@ -1,0 +1,15 @@
+/* Header Styles */
+.banner{
+    height: 20vh;
+    width: 100%;
+    background-image: url(../images/image-banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.contact{
+    &__thumbnail{
+        width: 75px;
+        height: 75px;
+    }
+}

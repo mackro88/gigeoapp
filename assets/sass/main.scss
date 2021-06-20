@@ -1,0 +1,16 @@
+/* Manifest */
+@import 'abstracts/variables'; 
+@import 'abstracts/mixins'; 
+
+@import 'base/reset'; 
+@import 'base/typography'; 
+@import 'base/base'; 
+
+@import 'layout/header';
+@import 'layout/main';
+
+@import 'components/buttons'; 
+@import 'components/nav'; 
+@import 'components/post';
+
+@import 'vendors/bootstrap-4.4.1/scss/bootstrap';
